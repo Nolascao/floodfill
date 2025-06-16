@@ -1,5 +1,15 @@
 # Flood Fill em Grid 2D
 
+## Integrantes:
+
+- Ana Carolina de Carvalho Corrêa - ana.correa.1313117@sga.pucminas.br
+
+- Júlia Evelyn de Oliveira Silva - jeosilva@sga.pucminas.br
+
+- Matheus Nolasco Miranda Soares - matheus.nolasco@sga.pucminas.br
+
+- Pedro Talma Toledo - pedrotoledo1717@gmail.com
+
 ## Descrição do Projeto
 
 Este projeto implementa o algoritmo **Flood Fill** para identificar e preencher regiões conectadas em um grid bidimensional (2D). O programa utiliza uma abordagem baseada em **busca em largura (BFS)** para explorar células navegáveis a partir de uma célula inicial, preenchendo-as com uma cor específica. Ele também mapeia automaticamente todas as regiões conectadas no grid, atribuindo cores distintas a cada região.
